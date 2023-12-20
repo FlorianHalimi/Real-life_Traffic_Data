@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkI33N/LKwstZvb9cVOd5BQ8KlhyytTBzZGFKJMP4QDornqBycAL1Udomxqht7zspxiU8Uu/Q9YeVd7wIW9C6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
